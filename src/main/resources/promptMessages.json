@@ -1,0 +1,12 @@
+[
+  {
+    "id" : 1,
+    "title" : "GameManagerWelcome",
+    "body" : "Welcome to Zip Casino, please select a game or type 'quit' to exit :"
+  },
+  {
+    "id" : 2,
+    "title" : "BlackJackWelcomeMessage",
+    "body" : "Welcome to Zip Code Black Jack, here are the rules:"
+  }
+]
